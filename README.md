@@ -1,4 +1,3 @@
-# Vallarit_ECE2112_PA4
 # Vallarit, Marick Andrei T. 2ECE-C
 Experiment 4 - Data Wrangling and Data Visualization
 
